@@ -1,0 +1,41 @@
+# Entorno virtual
+.venv/
+.env
+
+# Archivos de logs
+logs/
+.log
+
+# Archivos de configuración y credenciales
+.env
+
+# Archivos temporales y de caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Herramientas de desarrollo
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Compilados
+*.spec
+build/
+dist/
+
+# Librerías de Python
+*.egg-info/
+.eggs/
+
+# Archivos de prueba
+tests/__pycache__/
+tests/*.pyc
+tests/*.pyo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
